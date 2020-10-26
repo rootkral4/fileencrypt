@@ -10,6 +10,7 @@ py -m pip install -r requirements.txt
 
 ## Modules / Modüller
 
+* termcolor
 * cryptography
 * PyQt5
 
