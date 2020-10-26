@@ -38,3 +38,7 @@ Decryption > python3 fileencrypt.py secretimage.encpng secretimage.png -d key.ke
 
               ------------ Decryption ------------
 ![Images](https://github.com/rootkral4/fileencrypt/blob/main/UI/images/dec.PNG)
+
+## License / Lisans
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
