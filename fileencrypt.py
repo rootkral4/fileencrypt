@@ -1,3 +1,11 @@
+  
+#Coded By Kral4, BBOD | https://github.com/rootkral4 | https://github.com/1nnr3d
+#Educational Purposes Only
+#https://github.com/rootkral4/fileencrypt/blob/main/LICENSE
+
+# You should have received a copy of the MIT License
+# along with this program.  If not, see <https://github.com/rootkral4/fileencrypt/blob/main/LICENSE>.
+
 import sys
 import time
 import codecs
