@@ -29,7 +29,7 @@ Decryption > python3 fileencrypt.py secretimage.encpng secretimage.png -d key.ke
 
 ## Images / Görüntüler
 
-           ------------ Main ------------
+            ------------ Main ------------
 ![Images](https://github.com/rootkral4/fileencrypt/blob/main/UI/images/main.PNG)
 
               ------------ Encryption ------------
