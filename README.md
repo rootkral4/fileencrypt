@@ -1,10 +1,14 @@
-# fileencrypt
-Simple file encrypt/decrypt script
+# File Encrypt and Decrypt Console
 
 Usage :fileencrypt.py FILEPATH OUTPUTPATH ARG 
 
 -d : Decryption mode
 
-python3 fileencrypt.py secretimage.png secretimage.encpng
+```
+Encryption > python3 fileencrypt.py secretimage.png secretimage.encpng
 
-python3 fileencrypt.py secretimage.encpng secretimage.png -d key.key 
+Decryption > python3 fileencrypt.py secretimage.encpng secretimage.png -d key.key 
+```
+
+# File Encrypt and Decrypt UI
+
